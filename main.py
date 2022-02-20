@@ -34,3 +34,4 @@ elif opt == 'd':
 
 else:
     print('Invalid Input')
+    print('Enter e or d')
